@@ -17,6 +17,7 @@ This repo documents my **30-day learning journey**, where I committed **2 contri
 ---
 
 | 1   | Python Basics (loops, functions, lists, dicts) | ✅ Done |
+| 2   | Numpy Basics (arrays, reshaping, stats) | ⬜ Pending |
 
 ## 🗂️ Folder Structure
 - **`notebooks/`** → Learning notebooks on Python, Pandas, Numpy, ML etc.  
