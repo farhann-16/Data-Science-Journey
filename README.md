@@ -3,7 +3,7 @@ My 30-day data science and analytics learning journey with Python, SQL, Visualiz
 
 # 📊 Data Science Journey – 30 Days Challenge
 
-Hi 👋 I’m [Your Name], an **IT final-year student** passionate about **Data Science & Analytics**.  
+Hi 👋 I’m Diwan FarhanMadar, an **IT final-year student** passionate about **Data Science & Analytics**.  
 This repo documents my **30-day learning journey**, where I committed **2 contributions/day** to strengthen my skills and build a portfolio 🚀  
 
 ---
@@ -15,6 +15,8 @@ This repo documents my **30-day learning journey**, where I committed **2 contri
 ✔️ Daily commits (consistency matters 💯)  
 
 ---
+
+| 1   | Python Basics (loops, functions, lists, dicts) | ✅ Done |
 
 ## 🗂️ Folder Structure
 - **`notebooks/`** → Learning notebooks on Python, Pandas, Numpy, ML etc.  
