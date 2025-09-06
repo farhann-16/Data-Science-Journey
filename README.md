@@ -52,6 +52,6 @@ This is just the beginning! Next, I’ll work on:
 ---
 
 ## 📬 Connect with Me
-- Portfolio: [your-portfolio-link]  
-- LinkedIn: [your-linkedin-link]  
+- Portfolio: http://decodedbyfarhan.tech/  
+- LinkedIn: https://www.linkedin.com/in/farhan16/
 - GitHub: [your-github-profile]  
