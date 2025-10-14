@@ -20,6 +20,7 @@ This repo documents my **30-day learning journey**, where I committed **2 contri
 | 2   | Numpy Basics (arrays, reshaping, stats) | ✅ Done |
 | 3   | Pandas Basics (dataframes, filtering, groupby) | ✅ Done |
 | 7   | Mini Project – Student Grades Analysis (CSV Dataset) | ✅ Done |
+| 8   | Matplotlib Basics | ✅ Done |
 
 
 ---
