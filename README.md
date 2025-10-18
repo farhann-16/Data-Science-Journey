@@ -22,7 +22,11 @@ This repo documents my **30-day learning journey**, where I committed **2 contri
 | 7   | Mini Project – Student Grades Analysis (CSV Dataset) | ✅ Done |
 | 8   | Matplotlib Basics | ✅ Done |
 | 9   |  Matplotlib Advanced - Learn customization (colors, styles, subplots, legends) | ✅ Done |
-| 10   | Seaborn Basics - Learn histograms, boxplots, and heatmaps. | ✅ Done |
+| 10  | Seaborn Basics - Learn histograms, boxplots, and heatmaps. | ✅ Done |
+| 11  | Seaborn Advanced - Explore pairplot and scatterplot with regression lines. | ✅ Done |
+| 12  | Pandas + Visualization | ✅ Done |
+
+
 
 
 ---
