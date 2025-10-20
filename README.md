@@ -26,6 +26,7 @@ This repo documents my **30-day learning journey**, where I committed **2 contri
 | 11  | Seaborn Advanced - Explore pairplot and scatterplot with regression lines. | ✅ Done |
 | 12  | Pandas + Visualization | ✅ Done |
 | 13  | Netflix Dataset Visualization - analyzing the Netflix dataset. Explore distributions and simple visualizations. | ✅ Done | 
+| 14  | SQL Basics with SQLite | ✅ Done  |
 
 
 
