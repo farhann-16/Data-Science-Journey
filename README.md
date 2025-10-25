@@ -29,8 +29,10 @@ This repo documents my **30-day learning journey**, where I committed **2 contri
 | 14  | SQL Basics with SQLite | ✅ Done |
 | 15  | SQL Basics with SQLite - 1 | ✅ Done |
 | 16  | SQL Basics with SQLite - 2 | ✅ Done |
-| 17  | Advanced SQL | ✅ Done |
+| 17  | Advanced SQL - 1 | ✅ Done |
 | 18  | Advanced SQL - 2 | ✅ Done |
+| 19  | Descriptive Statistics | ✅ Done |
+
 
 
 
