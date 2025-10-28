@@ -33,7 +33,7 @@ This repo documents my **30-day learning journey**, where I committed **2 contri
 | 18  | Advanced SQL - 2 | ✅ Done |
 | 19  | Descriptive Statistics | ✅ Done |
 | 20  | Probability Basics | ✅ Done |
-| 20  | Probability Basics | ✅ Done |
+| 21  | Hypothesis Testing | ✅ Done |
 
 
 
