@@ -34,6 +34,7 @@ This repo documents my **30-day learning journey**, where I committed **2 contri
 | 19  | Descriptive Statistics | ✅ Done |
 | 20  | Probability Basics | ✅ Done |
 | 21  | Hypothesis Testing | ✅ Done |
+| 22  | Hypothesis Testing | ✅ Done |
 
 
 
