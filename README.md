@@ -35,6 +35,7 @@ This repo documents my **30-day learning journey**, where I committed **2 contri
 | 20  | Probability Basics | ✅ Done |
 | 21  | Hypothesis Testing | ✅ Done |
 | 22  | Linear Regression with Scikit-learn | ✅ Done |
+| 22  | Linear Regression with Scikit-learn | ✅ Done |
 
 
 
