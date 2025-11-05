@@ -36,7 +36,7 @@ This repo documents my **30-day learning journey**, where I committed **2 contri
 | 21  | Hypothesis Testing | ✅ Done |
 | 22  | Linear Regression with Scikit-learn | ✅ Done |
 | 23  | Multiple Linear Regression with Scikit-learn | ✅ Done |
-| 23  | Multiple Linear Regression with Scikit-learn | ✅ Done |
+| 24  | Logistic Regression (Classification) | ✅ Done |
 
 
 
