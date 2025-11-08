@@ -38,7 +38,7 @@ This repo documents my **30-day learning journey**, where I committed **2 contri
 | 23  | Multiple Linear Regression with Scikit-learn | ✅ Done |
 | 24  | Logistic Regression (Classification) | ✅ Done |
 | 25  | Decision Tree Classifier | ✅ Done |
-| 25  | Decision Tree Classifier | ✅ Done |
+| 25  | Model Evaluation Metrics | ✅ Done |
 
 
 
