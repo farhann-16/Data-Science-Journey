@@ -40,7 +40,7 @@ This repo documents my **30-day learning journey**, where I committed **2 contri
 | 25  | Decision Tree Classifier | ✅ Done |
 | 26  | Model Evaluation Metrics | ✅ Done |
 | 27  | Mini Project – Bank Loan Prediction | ✅ Done |
-| 27  | Mini Project – Bank Loan Prediction | ✅ Done |
+| 28  | Mini Project – Bank Loan Prediction | ✅ Done |
 
 
 
