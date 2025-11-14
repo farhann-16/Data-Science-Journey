@@ -108,7 +108,7 @@ data-science-journey/
 
 ---
 
-## 🎨 Badges (copy if you want visual status)
+## 🎨 Badges
 
 [![Readme Ready](https://img.shields.io/badge/README-Ready-brightgreen)](http://decodedbyfarhan.tech/)
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
